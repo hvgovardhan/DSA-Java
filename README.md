@@ -20,19 +20,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Graphs
 - Dynamic Programming
 
-## Folder Structure
-
-DSA-Java
-│
-├── Arrays
-├── Strings
-├── LinkedList
-├── Stack
-├── Queue
-├── Trees
-├── Graphs
-└── DynamicProgramming
-
 ## Progress
 
 | Topic | Problems Solved |
