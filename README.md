@@ -37,13 +37,13 @@ DSA-Java
 
 | Topic | Problems Solved |
 |------|------|
-| Arrays | 10 |
-| Strings | 5 |
-| Linked List | 4 |
-| Stack | 3 |
-| Trees | 6 |
+| Arrays | 1 |
+| Strings | 0 |
+| Linked List | 0 |
+| Stack | 0 |
+| Trees | 0 |
 
-Total Problems Solved: 28
+Total Problems Solved: 1
 
 ## Goal
 Solve 300+ DSA problems and improve problem-solving skills for coding interviews.
