@@ -24,13 +24,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic | Problems Solved |
 |------|------|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
 | Trees | 0 |
 
-Total Problems Solved: 1
+Total Problems Solved: 2
 
 ## Goal
 Solve 300+ DSA problems and improve problem-solving skills for coding interviews.
