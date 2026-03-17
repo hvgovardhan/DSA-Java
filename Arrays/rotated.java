@@ -1,3 +1,7 @@
+//LeetCode Que - 33 
+//Search in Rotated Sorted Array
+
+
 import java.util.*;
 
 public class rotated {
@@ -15,7 +19,7 @@ public class rotated {
             // left half sorted
             if (nums[left] <= nums[mid]) {
 
-                if (target >= nums[left] && target < nums[mid]) {
+                if (target >= nums[left] && target < nums[mid]) {     
                     right = mid - 1;
                 } else {
                     left = mid + 1;
