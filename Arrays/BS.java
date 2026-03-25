@@ -68,5 +68,6 @@ public class BS {
         int[] result = searchRange(nums, target);
 
         System.out.println(Arrays.toString(result));
+        sc.close();
     }
 }

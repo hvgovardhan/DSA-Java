@@ -54,5 +54,6 @@ public class rotated {
         int target = sc.nextInt();
 
         System.out.println(search(nums, target));
+        sc.close();
     }
 }

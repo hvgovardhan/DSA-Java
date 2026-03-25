@@ -31,5 +31,6 @@ public class rich {
             sum = 0;
         }
         System.out.println(res);
+        sc.close();
     }    
 }
